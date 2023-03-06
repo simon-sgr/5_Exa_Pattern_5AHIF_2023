@@ -15,6 +15,6 @@ public class MagicPowerDecorator extends SkillDecorator {
 
     @Override
     public String getDescription() {
-        return gameCharacter.getDescription() + " with Magic Power";
+        return gameCharacter.getDescription() + " has Magic Power";
     }
 }

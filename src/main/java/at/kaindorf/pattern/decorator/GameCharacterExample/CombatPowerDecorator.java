@@ -15,6 +15,6 @@ public class CombatPowerDecorator extends SkillDecorator {
 
     @Override
     public String getDescription() {
-        return gameCharacter.getDescription() + " with Combat Power";
+        return gameCharacter.getDescription() + " has Combat Power";
     }
 }
