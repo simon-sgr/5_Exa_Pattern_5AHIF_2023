@@ -1,4 +1,4 @@
-package at.kaindorf;
+package at.kaindorf.pattern.singleton;
 
 /**
  * <h3>Created by IntelliJ IDEA.</h3><br>
